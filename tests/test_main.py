@@ -1,9 +1,7 @@
-import os
 import tempfile
 import unittest
-from unittest.mock import patch, MagicMock
+from unittest.mock import patch
 from datetime import date
-import json
 
 # Adjust the import below if your script’s filename is different or if it’s in a package.
 import main
